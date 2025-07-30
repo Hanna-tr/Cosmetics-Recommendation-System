@@ -48,7 +48,6 @@ Each product is represented as a point on a 2D map. Products that are close toge
 | `cosmetics_recommender.ipynb` | Main Jupyter notebook with full analysis |
 | `cosmetics.csv`          | Dataset used in the analysis |
 | `bokeh_plot.png`         | Snapshot of the ingredient similarity plot |
-| `project_tasks.txt`      | Step-by-step instructions and task notes |
 | `README.md`              | Project overview and documentation |
 
 
