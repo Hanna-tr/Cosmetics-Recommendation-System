@@ -1,6 +1,6 @@
 # Cosmetics Ingredient-Based Recommendation System
 
-This project is a content-based recommendation system built using Python and machine learning techniques to suggest similar cosmetic products—specifically moisturizers—based on their chemical ingredient profiles.
+This project is a content-based recommendation system built using Python and machine learning techniques to suggest similar cosmetic products specifically moisturizers based on their chemical ingredient profiles.
 
 ## Objective
 
